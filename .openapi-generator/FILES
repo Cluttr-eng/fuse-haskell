@@ -1,0 +1,7 @@
+.openapi-generator-ignore
+README.md
+Setup.hs
+fuse.cabal
+lib/Fuse/API.hs
+lib/Fuse/Types.hs
+stack.yaml
